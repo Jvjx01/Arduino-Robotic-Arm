@@ -169,6 +169,9 @@ One line per move, `<index> <angle>\n`, where the index is 1 to 6 (see the [hard
 - **Original mode cannot read the arm's position,** so each joint may jump on its first move after connecting.
 - **Browser support:** Web Serial works in Chrome and Edge on desktop only. Firefox and Safari do not support it.
 
+## Visuals
+![Robotic Arm Neutral](robotic_arm.jpeg)
+
 ## Sources
 
 - **Reference arm:** <https://www.youtube.com/watch?v=R7pfTQcmXE4> is the video of the arm this project is meant to control. It could not be opened when this project was built (the fetch was blocked), so nothing in this repository was taken from it. The six-joint layout comes from the wiring description supplied by the project owner: six servos on pins 7 down to 2, base first and gripper last.

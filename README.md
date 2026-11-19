@@ -16,8 +16,7 @@ The app runs in Chrome or Edge on a desktop computer, talks to the Arduino over 
 - [Troubleshooting](#troubleshooting)
 - [Known limitations](#known-limitations)
 - [Sources](#sources)
-- [License](#license)
-
+  
 ## What is in this repository
 
 | Path | What it is |

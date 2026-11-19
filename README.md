@@ -178,4 +178,4 @@ One line per move, `<index> <angle>\n`, where the index is 1 to 6 (see the [hard
   - Web Serial API (MDN): <https://developer.mozilla.org/en-US/docs/Web/API/Web_Serial_API>
   - Gamepad API (MDN): <https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API>
   - W3C Gamepad specification, standard button and axis layout: <https://w3c.github.io/gamepad/#remapping>
-- **Wiring and power guidance** (separate servo supply, common ground, decoupling capacitor) is general servo practice and is not tied to a particular source.
+- **Wiring and power guidance** (separate servo supply, common ground, decoupling capacitor) is general servo practice and is not tied to a particular source. 

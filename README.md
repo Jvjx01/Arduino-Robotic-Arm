@@ -180,7 +180,3 @@ One line per move, `<index> <angle>\n`, where the index is 1 to 6 (see the [hard
   - Gamepad API (MDN): <https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API>
   - W3C Gamepad specification, standard button and axis layout: <https://w3c.github.io/gamepad/#remapping>
 - **Wiring and power guidance** (separate servo supply, common ground, decoupling capacitor) is general servo practice and is not tied to a particular source.
-
-## License
-
-The firmware in `firmware/robot_arm/` and the app in `app/` are released under the [MIT License](LICENSE). `firmware/original_sketch/original_sketch.ino` is not covered by it; see the note in `LICENSE`.
